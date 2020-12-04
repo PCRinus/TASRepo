@@ -17,7 +17,7 @@ namespace TestAccount
         {
 
             sursa = new Account();
-            sursa.Depunere(200.00F); //200 tip float
+            sursa.Depunere(200.00F);
             destinatie = new Account();
             destinatie.Depunere(150.00F);
         }

@@ -30,17 +30,6 @@ namespace TemaTasCasapu
             }
             else
             {
-                // in this specific example is the same like the test above. Could be splitted for different types of logs.
-                //if (performedLogActions.Count() != expectedLogActions.Count()) return false;
-
-                //for (int i = 0; i < performedLogActions.Count(); i++)
-                //{
-                //    Console.WriteLine(performedLogActions[i]);
-                //    Console.WriteLine(expectedLogActions[i]);
-
-                //    if (!performedLogActions[i].Equals(expectedLogActions[i])) return false;
-                //}
-
                 return true;
             }
         }
