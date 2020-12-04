@@ -1,8 +1,8 @@
 ﻿using NUnit.Framework;
-using TemaTasLC;
-using TemaTasLC.Account;
-using TemaTasLC.Convertor;
-using TemaTasLC.Messages;
+using TemaTasCasapu;
+using TemaTasCasapu.Account;
+using TemaTasCasapu.Convertor;
+using TemaTasCasapu.Messages;
 using Moq;
 
 namespace TestAccount

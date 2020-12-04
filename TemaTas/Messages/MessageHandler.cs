@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using TemaTasLC.Messages;
+using TemaTasCasapu.Messages;
 
-namespace TemaTasLC
+namespace TemaTasCasapu
 {
     public class MessageHandler : ILogger
     {

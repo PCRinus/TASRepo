@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TemaTasLC.Convertor
+namespace TemaTasCasapu.Convertor
 {
     public interface ICurrencyConvertor
     {

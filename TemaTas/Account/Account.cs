@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using TemaTasLC.Convertor;
-using TemaTasLC.ExceptionHandling;
+using TemaTasCasapu.Convertor;
+using TemaTasCasapu.ExceptionHandling;
 
-namespace TemaTasLC.Account
+namespace TemaTasCasapu.Account
 {
     public class Account
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TemaTasLC.Account.Client
+namespace TemaTasCasapu.Account.Client
 {
     public interface IClient
     {

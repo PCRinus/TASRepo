@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TemaTasLC.Messages
+namespace TemaTasCasapu.Messages
 {
     public interface ILogger
     {

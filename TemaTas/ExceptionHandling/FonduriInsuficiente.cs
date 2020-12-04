@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TemaTasLC.ExceptionHandling
+namespace TemaTasCasapu.ExceptionHandling
 {
     public class FonduriInsuficiente : Exception
     {

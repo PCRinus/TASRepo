@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NUnit.Framework;
-using TemaTasLC.Account;
-using TemaTasLC.ExceptionHandling;
+using TemaTasCasapu.Account;
+using TemaTasCasapu.ExceptionHandling;
 
 namespace TestAccount
 {
@@ -70,7 +70,7 @@ namespace TestAccount
         [Category("fail")]
         [Combinatorial]
 
-        public void TransferFonduriMinFailAll([Values(200, 500)] int source, [Values(0, 20)] int destination, [Values(190, 345)] int sum)
+        public void TransferFonduriMinFailAll([Values(200, 220)] int source, [Values(0, 20)] int destination, [Values(210, 345)] int sum)
         {
             Account sursa = new Account();
             sursa.Depunere(source);

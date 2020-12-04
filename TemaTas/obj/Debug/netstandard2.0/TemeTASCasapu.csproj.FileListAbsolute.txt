@@ -7,3 +7,12 @@ C:\Users\mirce\Documents\Tema_Coita_Laviniu\Tema_Coita_Laviniu\TemaTasLC\TemaTas
 C:\Users\mirce\Documents\Tema_Coita_Laviniu\Tema_Coita_Laviniu\TemaTasLC\TemaTasLC\obj\Debug\netstandard2.0\TemeTASCasapu.csproj.CoreCompileInputs.cache
 C:\Users\mirce\Documents\Tema_Coita_Laviniu\Tema_Coita_Laviniu\TemaTasLC\TemaTasLC\obj\Debug\netstandard2.0\TemeTASCasapu.dll
 C:\Users\mirce\Documents\Tema_Coita_Laviniu\Tema_Coita_Laviniu\TemaTasLC\TemaTasLC\obj\Debug\netstandard2.0\TemeTASCasapu.pdb
+C:\Users\mirce\Documents\TemaTAS\TemaTas\bin\Debug\netstandard2.0\TemeTASCasapu.deps.json
+C:\Users\mirce\Documents\TemaTAS\TemaTas\bin\Debug\netstandard2.0\TemeTASCasapu.dll
+C:\Users\mirce\Documents\TemaTAS\TemaTas\bin\Debug\netstandard2.0\TemeTASCasapu.pdb
+C:\Users\mirce\Documents\TemaTAS\TemaTas\obj\Debug\netstandard2.0\TemeTASCasapu.csprojAssemblyReference.cache
+C:\Users\mirce\Documents\TemaTAS\TemaTas\obj\Debug\netstandard2.0\TemeTASCasapu.AssemblyInfoInputs.cache
+C:\Users\mirce\Documents\TemaTAS\TemaTas\obj\Debug\netstandard2.0\TemeTASCasapu.AssemblyInfo.cs
+C:\Users\mirce\Documents\TemaTAS\TemaTas\obj\Debug\netstandard2.0\TemeTASCasapu.csproj.CoreCompileInputs.cache
+C:\Users\mirce\Documents\TemaTAS\TemaTas\obj\Debug\netstandard2.0\TemeTASCasapu.dll
+C:\Users\mirce\Documents\TemaTAS\TemaTas\obj\Debug\netstandard2.0\TemeTASCasapu.pdb

@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TemaTasLC\TemeTASCasapu.csproj" />
+    <ProjectReference Include="..\TemaTas\TemeTASCasapu.csproj" />
     <PackageReference Include="Moq" Version="4.15.2" />
   </ItemGroup>
 

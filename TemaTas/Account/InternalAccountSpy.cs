@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TemaTasLC.Account
+namespace TemaTasCasapu.Account
 {
     public class InternalAccountSpy : Account
     {
